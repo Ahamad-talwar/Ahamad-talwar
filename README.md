@@ -17,6 +17,11 @@
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<p>
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" style="margin-bottom: 4px;" width="40" height="40"/> 
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" style="margin-bottom: 4px;" width="40" height="40"/> 
+</p>
 </p>
 
 ## 👥 Connect With Me
@@ -46,10 +51,7 @@
 
 ## 📊 Github Status
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyampote&show_icons=true&locale=en" alt="satyampote" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahamad-talwar&show_icons=true&locale=en" alt="ahamad-talwar" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam&layout=compact"><p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahamad-talwar&" alt="ahamad-talwar" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Satyam%20&theme=radical&border_radius=4.4)](https://git.io/streak-stats)
-
-<p><img src="https://visitcount.itsvg.in/api?id=Satyam&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
