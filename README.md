@@ -55,3 +55,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahamad-talwar&" alt="ahamad-talwar" /></p>
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ahamadtalwar&theme=github-dark-dimmed&border_radius=3" alt="GitHub Streak" /></a>
