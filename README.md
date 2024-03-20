@@ -1,6 +1,6 @@
 #  A DEVELOPER
 
-<img width="100%" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" alt="my banner">
+<img width="100%" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" height="60%;" alt="my banner">
 
 ## 💫 A little bit about me
 <p>🌱 I'm currently learning:    AWS</p>
@@ -9,20 +9,8 @@
 <p>✨ summary:  <br> <br> Ahmad Talwar has successfully earned a diploma in mechatronics, demonstrating a strong foundation in engineering principles. Currently, Ahmad is furthering their education with a B. Tech in Computer Science and Engineering at Dayananda Sagar University. This path highlights their ambition and adaptability across technological disciplines.</p> <br>
 
 ## 💻 Skills
-<p>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<p>
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" style="margin-bottom: 4px;" width="40" height="40"/> 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" style="margin-bottom: 4px;" width="40" height="40"/> 
-</p>
-</p>
 
 ## 👥 Connect With Me
 <p align="left">
