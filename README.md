@@ -1,6 +1,6 @@
 #  A DEVELOPER
 
-<img width="100%" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" height="60%;" alt="my banner">
+<img width="100%" src="https://www.lambdatest.com/resources/images/news24.gif" height="60%;" alt="my banner">
 
 ## 💫 A little bit about me
 <p>🌱 I'm currently learning:    AWS</p>
